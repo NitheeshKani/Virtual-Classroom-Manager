@@ -65,16 +65,6 @@ Once you run the application, you will be able to use various commands to manage
 - `submit <assignment_name>` - Submit an assignment for the selected student
 - `list` - List all assignments for the selected student
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding style and add tests for any new features.
-
-1. **Fork the repository**
-2. **Create a new branch** (`git checkout -b feature/your-feature`)
-3. **Commit your changes** (`git commit -am 'Add new feature'`)
-4. **Push to the branch** (`git push origin feature/your-feature`)
-5. **Create a new Pull Request**
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
