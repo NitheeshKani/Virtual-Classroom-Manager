@@ -61,7 +61,7 @@ Once you run the application, you will be able to use various commands to manage
 - `.` - Unselect the current student
 
 ### Assignment Commands
-- `assign <assignment_name>` - Assign an assignment to the selected student
+- `assign <assignment_name>` - Assign an assignment to the selected class
 - `submit <assignment_name>` - Submit an assignment for the selected student
 - `list` - List all assignments for the selected student
 
